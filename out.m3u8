@@ -1,0 +1,241 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/michael1900/daddylive/main/epgShare1.xml"
+#EXTINF:-1 tvg-id="878" tvg-name="EuroSport 1 Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", EuroSport 1 Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium878/index.m3u8
+
+#EXTINF:-1 tvg-id="879" tvg-name="EuroSport 2 Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", EuroSport 2 Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium879/index.m3u8
+
+#EXTINF:-1 tvg-id="854" tvg-name="Italia 1 Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", Italia 1 Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium854/index.m3u8
+
+#EXTINF:-1 tvg-id="855" tvg-name="La7 Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", La7 Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium855/index.m3u8
+
+#EXTINF:-1 tvg-id="856" tvg-name="LA7d HD+ Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", LA7d HD+ Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium856/index.m3u8
+
+#EXTINF:-1 tvg-id="850" tvg-name="Rai 1 Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", Rai 1 Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium850/index.m3u8
+
+#EXTINF:-1 tvg-id="851" tvg-name="Rai 2 Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", Rai 2 Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium851/index.m3u8
+
+#EXTINF:-1 tvg-id="852" tvg-name="Rai 3 Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", Rai 3 Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium852/index.m3u8
+
+#EXTINF:-1 tvg-id="853" tvg-name="Rai 3 Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", Rai 3 Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium853/index.m3u8
+
+#EXTINF:-1 tvg-id="882" tvg-name="Rai Sport Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", Rai Sport Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium882/index.m3u8
+
+#EXTINF:-1 tvg-id="858" tvg-name="Rai Premium Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", Rai Premium Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium858/index.m3u8
+
+#EXTINF:-1 tvg-id="574" tvg-name="Sky Sports Golf Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", Sky Sports Golf Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium574/index.m3u8
+
+#EXTINF:-1 tvg-id="575" tvg-name="Sky Sport MotoGP Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", Sky Sport MotoGP Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium575/index.m3u8
+
+#EXTINF:-1 tvg-id="576" tvg-name="Sky Sport Tennis Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", Sky Sport Tennis Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium576/index.m3u8
+
+#EXTINF:-1 tvg-id="577" tvg-name="Sky Sport F1 Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", Sky Sport F1 Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium577/index.m3u8
+
+#EXTINF:-1 tvg-id="460" tvg-name="Sky Sport Football Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", Sky Sport Football Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium460/index.m3u8
+
+#EXTINF:-1 tvg-id="461" tvg-name="Sky Sport UNO Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", Sky Sport UNO Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium461/index.m3u8
+
+#EXTINF:-1 tvg-id="462" tvg-name="Sky Sport Arena Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", Sky Sport Arena Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium462/index.m3u8
+
+#EXTINF:-1 tvg-id="881" tvg-name="Sky UNO Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", Sky UNO Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium881/index.m3u8
+
+#EXTINF:-1 tvg-id="859" tvg-name="Sky Cinema Collection Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", Sky Cinema Collection Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium859/index.m3u8
+
+#EXTINF:-1 tvg-id="860" tvg-name="Sky Cinema Uno Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", Sky Cinema Uno Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium860/index.m3u8
+
+#EXTINF:-1 tvg-id="861" tvg-name="Sky Cinema Action Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", Sky Cinema Action Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium861/index.m3u8
+
+#EXTINF:-1 tvg-id="862" tvg-name="8Sky Cinema Comedy Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", 8Sky Cinema Comedy Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium862/index.m3u8
+
+#EXTINF:-1 tvg-id="863" tvg-name="Sky Cinema Uno +24 Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", Sky Cinema Uno +24 Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium863/index.m3u8
+
+#EXTINF:-1 tvg-id="864" tvg-name="Sky Cinema Romance Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", Sky Cinema Romance Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium864/index.m3u8
+
+#EXTINF:-1 tvg-id="865" tvg-name="Sky Cinema Family Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", Sky Cinema Family Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium865/index.m3u8
+
+#EXTINF:-1 tvg-id="866" tvg-name="Sky Cinema Due +24 Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", Sky Cinema Due +24 Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium866/index.m3u8
+
+#EXTINF:-1 tvg-id="867" tvg-name="Sky Cinema Drama Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", Sky Cinema Drama Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium867/index.m3u8
+
+#EXTINF:-1 tvg-id="868" tvg-name="8Sky Cinema Suspense Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", 8Sky Cinema Suspense Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium868/index.m3u8
+
+#EXTINF:-1 tvg-id="869" tvg-name="Sky Sport 24 Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", Sky Sport 24 Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium869/index.m3u8
+
+#EXTINF:-1 tvg-id="870" tvg-name="Sky Sport Calcio Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", Sky Sport Calcio Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium870/index.m3u8
+
+#EXTINF:-1 tvg-id="871" tvg-name="Sky Calcio 1 (251) Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", Sky Calcio 1 (251) Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium871/index.m3u8
+
+#EXTINF:-1 tvg-id="872" tvg-name="Sky Calcio 2 (252) Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", Sky Calcio 2 (252) Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium872/index.m3u8
+
+#EXTINF:-1 tvg-id="873" tvg-name="Sky Calcio 3 (253) Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", Sky Calcio 3 (253) Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium873/index.m3u8
+
+#EXTINF:-1 tvg-id="874" tvg-name="Sky Calcio 4 (254) Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", Sky Calcio 4 (254) Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium874/index.m3u8
+
+#EXTINF:-1 tvg-id="875" tvg-name="Sky Calcio 5 (255) Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", Sky Calcio 5 (255) Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium875/index.m3u8
+
+#EXTINF:-1 tvg-id="876" tvg-name="Sky Calcio 6 (256) Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", Sky Calcio 6 (256) Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium876/index.m3u8
+
+#EXTINF:-1 tvg-id="877" tvg-name="Sky Calcio 7 (257) Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", Sky Calcio 7 (257) Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium877/index.m3u8
+
+#EXTINF:-1 tvg-id="880" tvg-name="Sky Serie Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", Sky Serie Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium880/index.m3u8
+
+#EXTINF:-1 tvg-id="857" tvg-name="20 Mediaset Italy" tvg-logo="https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg" group-title="TV ITA", 20 Mediaset Italy
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium857/index.m3u8
+
