@@ -8,7 +8,7 @@ import datetime
 import pytz
 
 # Costanti
-NUM_CHANNELS = 2000
+NUM_CHANNELS = 1000
 DADDY_JSON_FILE = "daddyliveSchedule.json"
 M3U8_OUTPUT_FILE = "daily.m3u8"
 EPG_OUTPUT_FILE = "daily.xml"
