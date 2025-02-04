@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/dtankdempse/daddylive-m3u/refs/heads/main/epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/fernandofriasn/The-Club/main/epg.xml"
 #EXTINF:-1 tvg-id="A.and.E.Network.HDTV.(A.and.EHD).us" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/a-and-e-us.png" group-title="USA (DADDY LIVE)",A&E
 https://xyzdddd.mizhls.ru/lb/premium302/index.m3u8
 
