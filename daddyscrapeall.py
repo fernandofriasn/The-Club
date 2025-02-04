@@ -97,7 +97,7 @@ def generate_m3u8(matches, payload):
                 tvicon_path = f'https://raw.githubusercontent.com{payload.get("initial_path", "")}/{logo_matches[0]["path"]}'
             else:
                 # Logo di default se non trovato
-                tvicon_path = "https://raw.githubusercontent.com/michael1900/daddylive/refs/heads/main/bg/ddy-logo.jpg"
+                tvicon_path = "https://i.imgur.com/qjzZwol.png"
 
             file.write(f"#EXTINF:-1 tvg-id=\"{channel_id}\" tvg-name=\"{channel_name}\" tvg-logo=\"{tvicon_path}\" group-title=\"TV\", {channel_name}\n")
             file.write(f'#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/\n')
