@@ -8,7 +8,7 @@ import datetime
 import pytz
 
 # Costanti
-NUM_CHANNELS = 1000
+NUM_CHANNELS = 2000
 DADDY_JSON_FILE = "updated_schedule.json"
 M3U8_OUTPUT_FILE = "daily.m3u8"
 EPG_OUTPUT_FILE = "daily.xml"
@@ -82,7 +82,7 @@ def addChannelsByLeagueSport():
                         mStopTime = stop_date_amsterdam.strftime("%Y%m%d%H%M%S")
 
                         formatted_date_time_cet = start_date_amsterdam.strftime("%m/%d/%y")
-                        startHour = start_date_amsterdam.strftime("%H:%M") 
+                        startHour = start_date_amsterdam.strftime("%H:%M") + "%CET"
                         formatted_date_time_cet = formatted_date_time_cet + " - " + startHour
 
                         UniqueID = unique_ids.pop(0)
