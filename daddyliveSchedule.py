@@ -74,7 +74,7 @@ def addChannelsByLeagueSport():
                         date_format = "%A %d %b %Y %H:%M - Schedule Time UK GMT"
                         start_date_utc = datetime.datetime.strptime(date_time, date_format)
 
-                        amsterdam_timezone = pytz.timezone("Europe/Amsterdam")
+                        amsterdam_timezone = pytz.timezone("America/Santo_Domingo")
                         start_date_amsterdam = start_date_utc.replace(tzinfo=pytz.utc).astimezone(amsterdam_timezone)
 
                         mStartTime = start_date_amsterdam.strftime("%Y%m%d%H%M%S")
@@ -82,7 +82,7 @@ def addChannelsByLeagueSport():
                         mStopTime = stop_date_amsterdam.strftime("%Y%m%d%H%M%S")
 
                         formatted_date_time_cet = start_date_amsterdam.strftime("%m/%d/%y")
-                        startHour = start_date_amsterdam.strftime("%H:%M") + " (CET)"
+                        startHour = start_date_amsterdam.strftime("%H:%M") 
                         formatted_date_time_cet = formatted_date_time_cet + " - " + startHour
 
                         UniqueID = unique_ids.pop(0)
@@ -101,7 +101,7 @@ def addChannelsByLeagueSport():
 
                         with open(M3U8_OUTPUT_FILE, 'a', encoding='utf-8') as file:
                             if channelCount == 1:
-                                file.write('#EXTM3U url-tvg="https://raw.githubusercontent.com/emaschi/daddylive/refs/heads/main/daily.xml"\n')
+                                file.write('#EXTM3U url-tvg="https://raw.githubusercontent.com/fernandofriasn/The-Club/refs/heads/main/daily.xml"\n')
 
                             file.write(f'#EXTINF:-1 tvg-id="{UniqueID}" tvg-name="{tvgName}" tvg-logo="{LOGO}" group-title="Live", {tvLabel}\n')
                             file.write(f'#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/\n')
