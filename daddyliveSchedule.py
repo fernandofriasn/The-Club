@@ -82,8 +82,8 @@ def addChannelsByLeagueSport():
                         mStopTime = stop_date_amsterdam.strftime("%Y%m%d%H%M%S")
 
                         formatted_date_time_cet = start_date_amsterdam.strftime("%m/%d/%y")
-                        startHour = start_date_amsterdam.strftime("%H:%M") + "%CET"
                         
+                                                
                         
                         UniqueID = unique_ids.pop(0)
                         try:
