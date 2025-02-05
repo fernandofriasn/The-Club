@@ -94,7 +94,7 @@ def generate_m3u8(matches, payload):
             logo_matches = tvlogo.search_tree_items(channel_name, payload)
             
             if logo_matches and "path" in (logo_matches[0]):
-                tvicon_path = f'https://raw.githubusercontent.com{payload.get("initial_path", "")}/{logo_matches[0]["path"]}'
+                tvicon_path = f'https://raw.githubusercontent.com{payload.get("initial_path", "")}/{logo_matches[1]["path"]}'
             else:
                 # Logo di default se non trovato
                 tvicon_path = "https://i.imgur.com/qjzZwol.png"
