@@ -84,7 +84,7 @@ def generate_m3u8(matches, payload):
         return
     
     with open("outall.m3u8", 'w', encoding='utf-8') as file:
-        file.write('#EXTM3U url-tvg="https://raw.githubusercontent.com/michael1900/daddylive/main/epgShareall.xml"\n')
+        file.write('#EXTM3U url-tvg="https://raw.githubusercontent.com/fernandofriasn/The-Club/main/epgShareall.xml"\n')
         
         for channel in matches:
             channel_id = channel[0]
