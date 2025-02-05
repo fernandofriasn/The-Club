@@ -1,3 +1,4 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/emaschi/daddylive/refs/heads/main/daily.xml"
 #EXTINF:-1 tvg-id="bdd640fb-0667-1ad1-1c80-317fa3b1799d" tvg-name="Lyla in the Loop Season 1, Episode 24 02/04/25 - 14:00 (CET) PBS USA" tvg-logo="https://i.imgur.com/qjzZwol.png" group-title="Live", Lyla in the Loop Season 1, Episode 24 02/04/25 - 14:00 (CET) PBS USA
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
