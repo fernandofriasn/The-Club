@@ -1,4 +1,61 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/fernandofriasn/The-Club/main/epgShareall.xml"
+#EXTINF:-1 tvg-id="/" tvg-name="" tvg-logo="https://i.imgur.com/qjzZwol.png" group-title="TV", 
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium//index.m3u8
+
+#EXTINF:-1 tvg-id="/index" tvg-name="24/7 Channels
+Schedule API
+Contact Us
+Webmasters
+Discord
+Telegram" tvg-logo="https://i.imgur.com/qjzZwol.png" group-title="TV", 24/7 Channels
+Schedule API
+Contact Us
+Webmasters
+Discord
+Telegram
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium/index/index.m3u8
+
+#EXTINF:-1 tvg-id="channels" tvg-name="24/7 Channels" tvg-logo="https://i.imgur.com/qjzZwol.png" group-title="TV", 24/7 Channels
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premiumchannels/index.m3u8
+
+#EXTINF:-1 tvg-id="generated.json" tvg-name="Schedule API" tvg-logo="https://i.imgur.com/qjzZwol.png" group-title="TV", Schedule API
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premiumgenerated.json/index.m3u8
+
+#EXTINF:-1 tvg-id="us" tvg-name="Contact Us" tvg-logo="https://i.imgur.com/qjzZwol.png" group-title="TV", Contact Us
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premiumus/index.m3u8
+
+#EXTINF:-1 tvg-id="#" tvg-name="Webmasters" tvg-logo="https://i.imgur.com/qjzZwol.png" group-title="TV", Webmasters
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premium#/index.m3u8
+
+#EXTINF:-1 tvg-id="https://discord.gg/Q3GEJx4zBU" tvg-name="Discord" tvg-logo="https://i.imgur.com/qjzZwol.png" group-title="TV", Discord
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premiumhttps://discord.gg/Q3GEJx4zBU/index.m3u8
+
+#EXTINF:-1 tvg-id="https://t.me/dlhdlive" tvg-name="Telegram" tvg-logo="https://i.imgur.com/qjzZwol.png" group-title="TV", Telegram
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+https://xyzdddd.mizhls.ru/lb/premiumhttps://t.me/dlhdlive/index.m3u8
 
 #EXTINF:-1 tvg-id="51" tvg-name="ABC USA" tvg-logo="https://i.imgur.com/qjzZwol.png" group-title="TV", ABC USA
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
