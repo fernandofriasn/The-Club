@@ -9,7 +9,7 @@ import pytz
 
 # Costanti
 NUM_CHANNELS = 1000
-DADDY_JSON_FILE = "daddyliveSchedule.json"
+DADDY_JSON_FILE = "updated_schedule.json"
 M3U8_OUTPUT_FILE = "daily.m3u8"
 EPG_OUTPUT_FILE = "daily.xml"
 LOGO = "https://i.imgur.com/qjzZwol.png"
