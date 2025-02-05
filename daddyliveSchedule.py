@@ -87,7 +87,7 @@ def addChannelsByLeagueSport():
                         
                         UniqueID = unique_ids.pop(0)
                         try:
-                            channelName = game["event"] + " " + formatted_date_time_cet + " " + channel["channel_name"]
+                            channelName = game["event"] + " " + channel["channel_name"]
                         except TypeError:
                             print("JSON mal formattato, canale saltato per questa partita.")
                             continue
