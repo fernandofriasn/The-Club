@@ -9,7 +9,7 @@ import pytz
 
 # Costanti
 NUM_CHANNELS = 2000
-DADDY_JSON_FILE = "updated_schedule.json"
+DADDY_JSON_FILE = "daddyliveSchedule.json"
 M3U8_OUTPUT_FILE = "daily.m3u8"
 EPG_OUTPUT_FILE = "daily.xml"
 LOGO = "https://i.imgur.com/qjzZwol.png"
@@ -83,8 +83,8 @@ def addChannelsByLeagueSport():
 
                         formatted_date_time_cet = start_date_amsterdam.strftime("%m/%d/%y")
                         startHour = start_date_amsterdam.strftime("%H:%M") + "%CET"
-                        formatted_date_time_cet = formatted_date_time_cet + " - " + startHour
-
+                        
+                        
                         UniqueID = unique_ids.pop(0)
                         try:
                             channelName = game["event"] + " " + formatted_date_time_cet + " " + channel["channel_name"]
