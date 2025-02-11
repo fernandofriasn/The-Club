@@ -4,7 +4,7 @@ import pytz
 
 # Define the timezone difference (from UK to US Eastern Time)
 UK_TZ = pytz.timezone('Europe/London')
-US_TZ = pytz.timezone('US/Eastern')
+US_TZ = pytz.timezone('America/Santo_Domingo')
 
 def convert_time(uk_time_str):
     # Parse the time string into a datetime object
